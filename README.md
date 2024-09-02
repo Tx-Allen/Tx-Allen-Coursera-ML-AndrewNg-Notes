@@ -4,7 +4,7 @@ Part1. Supervised Machine Learning: Regression and Classification
 1. 
 2. 
 3. 
-4. 
+4. [Regression Model.md](https://github.com/Tx-Allen/Tx-Allen-Coursera-ML-AndrewNg-Notes/edit/main/Part1/4.%20Regression%20Model.md)
 5. 
 Part2. Advanced Learning Algorithms
 1. 
